@@ -4,9 +4,19 @@
  
  
  #image{
+<<<<<<< HEAD
     max-width: 100% ;
     height: auto;
+=======
  
+ 
+    max-width: 100% ;
+ 
+ 
+    height: 80vh;
+>>>>>>> f17c0f41de4e7ef54644e31c4d2ecd411b2c9254
+ 
+
  }
  
  #img-div{
@@ -16,6 +26,7 @@
     width: 50%;
  
  }
+<<<<<<< HEAD
  #tribute-info{
     text-align: center;
  }
@@ -24,4 +35,7 @@
   justify-content: center;
   align-items: center;
  }
+=======
+ 
+>>>>>>> f17c0f41de4e7ef54644e31c4d2ecd411b2c9254
  
