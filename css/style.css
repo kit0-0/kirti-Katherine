@@ -1,47 +1,27 @@
 #title{
-
-
-
-
     text-align: center;
- 
- 
  }
  
  
  #image{
-
     max-width: 100% ;
-    height: 80vh;
+    height: auto;
  
  }
  
  #img-div{
- 
- 
     display: block;
- 
- 
     margin-left: auto;
- 
- 
     margin-right: auto;
- 
- 
     width: 50%;
- 
  
  }
  #tribute-info{
-
-
-
     text-align: center;
  }
  #tribute-link{
-    display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
  }
  
